@@ -1,0 +1,333 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "assignmentone_app",
+            "cwd": "assignmentone_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assignmentone_app (profile mode)",
+            "cwd": "assignmentone_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "eighteen_app",
+            "cwd": "eighteen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "eighteen_app (profile mode)",
+            "cwd": "eighteen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "eight_app",
+            "cwd": "eight_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "eight_app (profile mode)",
+            "cwd": "eight_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "eleventh_app",
+            "cwd": "eleventh_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "eleventh_app (profile mode)",
+            "cwd": "eleventh_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fifteen_app",
+            "cwd": "fifteen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fifteen_app (profile mode)",
+            "cwd": "fifteen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fifth_app",
+            "cwd": "fifth_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fifth_app (profile mode)",
+            "cwd": "fifth_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "first_app",
+            "cwd": "first_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "first_app (profile mode)",
+            "cwd": "first_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sheet_api_app",
+            "cwd": "sheet_api_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sheet_api_app (profile mode)",
+            "cwd": "sheet_api_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "feedback_app",
+            "cwd": "feedback_api_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "feedback_app (profile mode)",
+            "cwd": "feedback_api_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "first_meal",
+            "cwd": "first_meal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "feedback_api_app (profile mode)",
+            "cwd": "feedback_api_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "foodlist_api_app",
+            "cwd": "foodlist_api_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "foodlist_api_app (profile mode)",
+            "cwd": "foodlist_api_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fourteen_app",
+            "cwd": "fourteen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fourteen_app (profile mode)",
+            "cwd": "fourteen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fourth_app",
+            "cwd": "fourth_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fourth_app (profile mode)",
+            "cwd": "fourth_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ninth_app",
+            "cwd": "ninth_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ninth_app (profile mode)",
+            "cwd": "ninth_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "second_app",
+            "cwd": "second_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "second_app (profile mode)",
+            "cwd": "second_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "seventeen_app",
+            "cwd": "seventeen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "seventeen_app (profile mode)",
+            "cwd": "seventeen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "seventh_app",
+            "cwd": "seventh_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "seventh_app (profile mode)",
+            "cwd": "seventh_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sixteen_app",
+            "cwd": "sixteen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sixteen_app (profile mode)",
+            "cwd": "sixteen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sixth_app",
+            "cwd": "sixth_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sixth_app (profile mode)",
+            "cwd": "sixth_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tenth_app",
+            "cwd": "tenth_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tenth_app (profile mode)",
+            "cwd": "tenth_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "test_flexible_app",
+            "cwd": "test_flexible_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "test_flexible_app (profile mode)",
+            "cwd": "test_flexible_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "third_app",
+            "cwd": "third_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "third_app (profile mode)",
+            "cwd": "third_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "thirteen_app",
+            "cwd": "thirteen_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "thirteen_app (profile mode)",
+            "cwd": "thirteen_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "twelve_app",
+            "cwd": "twelve_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "twelve_app (profile mode)",
+            "cwd": "twelve_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "real-apps-17-date-input-and-picker",
+            "cwd": "real-apps-17-date-input-and-picker\\real-apps-17-date-input-and-picker",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "real-apps-17-date-input-and-picker (profile mode)",
+            "cwd": "real-apps-17-date-input-and-picker\\real-apps-17-date-input-and-picker",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}

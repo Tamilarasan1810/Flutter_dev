@@ -1,0 +1,68 @@
+
+import 'package:flutter/material.dart';
+import './text.dart';
+import './app.dart';
+
+void main() => runApp(Assignment());
+
+class Assignment extends StatefulWidget {
+  @override
+  State<Assignment> createState() => _AssignmentState();
+}
+
+class _AssignmentState extends State<Assignment> {
+  var counter = 0;
+  void change() {
+    setState(() {
+      counter += 1;
+    });
+    print(counter);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    var text = ['text 1', 'text 2', 'text 3'];
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Assignment 1'),
+        ),
+        body: Column(
+          children: [textz(text[counter]), app(change)],
+        ),
+      ),
+    );
+  }
+}
+
+import 'package:flutter/material.dart';
+
+class textz extends StatelessWidget {
+  final String texts;
+  textz(this.texts);
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      texts,
+      style: TextStyle(fontSize: 20),
+      textAlign: TextAlign.center,
+    );
+  }
+}
+import 'package:flutter/material.dart';
+import './text.dart';
+
+class app extends StatelessWidget {
+  final Function whenpressed;
+  app(this.whenpressed);
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+        width: double.infinity,
+        color: Colors.black,
+        child: RaisedButton(
+          child: Text('change text'),
+          onPressed: whenpressed,
+        ));
+  }
+}
