@@ -1,0 +1,177 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "tenth_shop",
+            "cwd": "tenth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tenth_shop (profile mode)",
+            "cwd": "tenth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "eighth_shop",
+            "cwd": "eighth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "eighth_shop (profile mode)",
+            "cwd": "eighth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "eleventh_shop",
+            "cwd": "eleventh_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "eleventh_shop (profile mode)",
+            "cwd": "eleventh_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fifth_shop",
+            "cwd": "fifth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fifth_shop (profile mode)",
+            "cwd": "fifth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "first_shop",
+            "cwd": "first_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "first_shop (profile mode)",
+            "cwd": "first_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fourth_shop",
+            "cwd": "fourth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fourth_shop (profile mode)",
+            "cwd": "fourth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ninenth_shop",
+            "cwd": "ninenth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ninenth_shop (profile mode)",
+            "cwd": "ninenth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ninth_shop",
+            "cwd": "ninth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ninth_shop (profile mode)",
+            "cwd": "ninth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "second_shop",
+            "cwd": "second_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "second_shop (profile mode)",
+            "cwd": "second_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "seventh_shop",
+            "cwd": "seventh_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "seventh_shop (profile mode)",
+            "cwd": "seventh_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sixth_shop",
+            "cwd": "sixth_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sixth_shop (profile mode)",
+            "cwd": "sixth_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "third_shop",
+            "cwd": "third_shop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "third_shop (profile mode)",
+            "cwd": "third_shop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "state-01-starting-setup",
+            "cwd": "state-01-starting-setup\\state-01-starting-setup",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "state-01-starting-setup (profile mode)",
+            "cwd": "state-01-starting-setup\\state-01-starting-setup",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}

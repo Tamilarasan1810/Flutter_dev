@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tamilarasan",
+        "email": "tamilarasan1mst@gamil.com",
+        "age": 20
+    },
+    {
+        "name": "Tony Stark",
+        "email": "tonystark@gamil.com",
+        "age": 55
+    },
+    {
+        "name": "Steve Rogers",
+        "email": "steverogers@gamil.com",
+        "age": 38
+    },
+    {
+        "name": "Thor",
+        "email": "thor@gmail.com",
+        "age": 58
+    }
+]
